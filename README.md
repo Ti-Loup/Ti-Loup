@@ -61,6 +61,6 @@
 >>[Curling Game – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
 >>
 >>#### 📸 Screenshots
->><img src="C:\Users\Louis-Philippe\Pictures\Linkein\JeuCurling update.png" width="400"/>
->><img src="C:\Users\Louis-Philippe\Pictures\Linkein\Locomotion" width="400"/>
+>><img src="JeuCurling update.png" width="400"/>
+>><img src="Locomotion.png" width="400"/>
 
