@@ -75,15 +75,15 @@
 >>**Genre:** 3D Curling Simulation + Combat system (Unreal Engine, Maya, C++, Blueprints)  
 >>**Status:** Work In Progress (4 months)  
 >>
->>This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets—including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
+>>This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
 >>
 >><details>
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
 >>
->>- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and >>emotes using a C++ and Blueprint hybrid approach.
+>>- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and emotes using a C++ and Blueprint hybrid approach.
 >>- 🥌 **Game Logic & Rules**: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and >>reliability. 
->>- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic >>friction calculations. 
->>- 🧠 **Software Architecture**: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct >>behaviors for Red and Blue stones. 
+>>- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic friction calculations. 
+>>- 🧠 **Software Architecture**: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct behaviors for Red and Blue stones. 
 >>- 💡 **Environment & Lighting**: Created a dynamic Day/Night cycle and lighting system using Blueprints.
 >></details>
 >>
@@ -155,4 +155,35 @@
 >><img src="Sheriff_Finish.png" width="400"/>
 >><img src="Sheriff_Finish2.png" width="400"/>
 
+---
+
+
+>### 🥌 Deer Hunt
+>>
+>>**Genre:** 3D Action adventure, Hunting Game (Unreal Engine, Blueprints)  
+>>**Status:** Finished (3 months)  
+>>
+>>This was my first Unreal Engine project, where I'm using Blueprints to develop a Day/Night cycle, deers and wolfs with behaviour, and pick up/drop mechanic.
+>>It was interesting to see the different possiblitity I could do with a different engine from Unity.
+>>
+>><details>
+>><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
+>>
+>>- 🐺 **AI Behaviour**: Implemented two distinct AI behaviors : 
+>>  - **(Deer)**: They move around with different animations. If they see the player they try to run away
+>>  - **(Wolves)**: They move around and idle with different animation. If they see the player then they try to attack him. 
+>>- 🔫 **Combat & Interaction**: Programmed a weapon pickup system and a projectile-based shooting mechanic.
+>>- 🌓 **Environment System**: Created a dynamic **Day/Night cycle** to enhance immersion and affect visibility during day and night.
+>>- 🖥️ **Game Menu and UI**: Menu and options available
+>></details>
+>>
+>><details>
+>>
+>>
+>>#### ▶️ Gameplay Video
+>>[Deer Hunt – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>
+>>#### 📸 Screenshots
+>><img src="The Deer Hunt.png" width="400"/>
+>><img src="The Deer Hunt_Attack.png" width="400"/>
 
