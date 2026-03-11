@@ -51,7 +51,7 @@
 >></details>
 >>
 >><details>
->><summary><strong>🎨 2D Models I've Made (Click to open)</strong></summary>
+>><summary><strong>🎨 2D Models To DO (Click to open)</strong></summary>
 >>
 >>- Deer Shape 
 >>- Strawberries
@@ -128,6 +128,31 @@
 >>[Camera RTS/Total War – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
 >>
 >>#### 📸 Screenshots
->><img src="" width="400"/>
->><img src="" width="400"/>
+>><img src="RTS_Camera.png" width="400"/>
+>><img src="RTS_Click.png" width="400"/>
+
+---
+
+>### 🎨 3D Sheriff Office 
+>>
+>>**Genre:** Creation of assets (Unreal Engine, Maya, Adobe Painter)  
+>>**Status:** Finished (4 months)  
+>>
+>>This project focuses on the high-quality creation of environment assets inspired by the Office of **Red Dead Redemption**. The goal was to create and implement the assets inside Unrea Engine , from modelisation to engine optimization, ensuring assets are both visually stunning and performance-friendly.
+>>
+>>🌵 My insperation was Red Dead Redemption 2
+>>
+>><details>
+>><summary><strong>🎨 3D Models I've Made (Click to open)</strong></summary>
+>>
+>>- Table
+>>- Horse Hitching post
+>>- Sheriff Office
+>></details>
+>>
+>>#### 📸 Screenshots
+>><img src="Sheriff.png" width="400"/>
+>><img src="Sheriff_Finish.png" width="400"/>
+>><img src="Sheriff_Finish2.png" width="400"/>
+
 
