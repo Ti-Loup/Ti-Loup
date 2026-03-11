@@ -27,6 +27,8 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github)
 
+---
+
 ## 📂 Projects
 
 ### Curling Game
@@ -36,16 +38,14 @@
 
 This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets—including the stones, brooms, hacks, and houses—were modeled in Maya 2025 by myself.
 
----
-
 <details>
 <summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
 
-- 👾 Character & Gameplay Systems: Designed and programmed character movement and camera, input handling, interactions, and emotes using a C++         and Blueprint hybrid approach.
-- 🥌 Game Logic & Rules: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and reliability. 
-- 🥌 Physics & Mechanics (C++): Developed custom physics for stone curling functions, launch power (impulse), and dynamic friction          calculations. 
-- 🧠 Software Architecture: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct behaviors for Red and Blue stones. 
-- 💡 Environment & Lighting: Created a dynamic Day/Night cycle and lighting system using Blueprints.
+- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and emotes using a C++         and Blueprint hybrid approach.
+- 🥌 **Game Logic & Rules**: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and reliability. 
+- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic friction          calculations. 
+- 🧠 **Software Architecture**: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct behaviors for Red and Blue stones. 
+- 💡 **Environment & Lighting**: Created a dynamic Day/Night cycle and lighting system using Blueprints.
 </details>
 
 <details>
@@ -57,11 +57,10 @@ This is my first Unreal Engine project, where I'm using C++ to develop custom ga
 - Hack
 </details>
 
-### ▶️ Gameplay Video
+#### ▶️ Gameplay Video
 [Curling Game – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
 
----
+#### 📸 Screenshots
+<img src="C:\Users\Louis-Philippe\Pictures\Linkein\JeuCurling update.png" width="400"/>
+<img src="C:\Users\Louis-Philippe\Pictures\Linkein\Locomotion" width="400"/>
 
-### 📸 Screenshots
-<img src="Pictures/Linkedin/JeuCurlingupdate.png" width="400"/>
-<img src="screenshots/fullmoon_2.png" width="400"/>
