@@ -65,8 +65,8 @@
 >>[Deer Invaders – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
 >>
 >>#### 📸 Screenshots
->><img src="" width="400"/>
->><img src="" width="400"/>
+>><img src="DeerI_Menu_Mars.png" width="400"/>
+>><img src="DeerI_Game_Mars.png" width="400"/>
 
 ---
 
@@ -80,9 +80,9 @@
 >><details>
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
 >>
->>- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and >>emotes using a C++         and Blueprint hybrid approach.
+>>- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and >>emotes using a C++ and Blueprint hybrid approach.
 >>- 🥌 **Game Logic & Rules**: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and >>reliability. 
->>- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic >>friction          calculations. 
+>>- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic >>friction calculations. 
 >>- 🧠 **Software Architecture**: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct >>behaviors for Red and Blue stones. 
 >>- 💡 **Environment & Lighting**: Created a dynamic Day/Night cycle and lighting system using Blueprints.
 >></details>
@@ -104,4 +104,30 @@
 >><img src="Locomotion.png" width="400"/>
 
 ---
+
+>### 🎥 Camera Top Down RTS/Total War
+>>
+>>**Genre:** 3D Camera Simulated of Total War Games (Unreal Engine, Blueprints)  
+>>**Status:** Finished (2 months)  
+>>
+>>This was my second Unreal Engine project, where I'm using Blueprints to develop and create a camera and the feel of a Total War game. I also simulate the click when the mouse is close to the character. This prototype has been a good base to learn more about the camera movements possibilities and the click on character mechanic.
+>>
+>>This prototype is inspired by **Total War : Rome 2**
+>>
+>><details>
+>><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
+>>
+>>- 🛰️ **Advanced Camera System:** Designed a top-down movement system including smooth panning, rotation, and zooming **Zoom +/-** functionality.
+>>- 🖱️ **Unit Selection:** Programmed a character selection system where units become active and controllable only when clicked by the player.
+>>- 🖱️ **Edge Scrolling:** Developed logic to detect the cursor's position on the viewport, triggering camera movement when the mouse hits the **top, bottom, or side edges** of the screen.
+>>- 👁️ **Visual Feedback (UX):** Implemented dynamic visual highlights and hover effects that trigger when the mouse cursor points at a character.
+>>- 🕹️ **Input Handling:** Created a responsive control scheme tailored for tactical strategy games, ensuring fluid navigation across the battlefield. 
+>></details>
+>>
+>>#### ▶️ Gameplay Video
+>>[Camera RTS/Total War – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>
+>>#### 📸 Screenshots
+>><img src="" width="400"/>
+>><img src="" width="400"/>
 
