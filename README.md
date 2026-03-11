@@ -29,4 +29,39 @@
 
 ## 📂 Projects
 
+### Curling Game
 
+**Genre:** 3D Curling Simulation + Combat system (Unreal Engine, Maya, C++, Blueprints)  
+**Status:** Work In Progress (4 months)  
+
+This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets—including the stones, brooms, hacks, and houses—were modeled in Maya 2025 by myself.
+
+---
+
+<details>
+<summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
+
+- 👾 Character & Gameplay Systems: Designed and programmed character movement and camera, input handling, interactions, and emotes using a C++         and Blueprint hybrid approach.
+- 🥌 Game Logic & Rules: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and reliability. 
+- 🥌 Physics & Mechanics (C++): Developed custom physics for stone curling functions, launch power (impulse), and dynamic friction          calculations. 
+- 🧠 Software Architecture: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct behaviors for Red and Blue stones. 
+- 💡 Environment & Lighting: Created a dynamic Day/Night cycle and lighting system using Blueprints.
+</details>
+
+<details>
+<summary><strong>🎨 3D Models I've Made (Click to open)</strong></summary>
+
+- Curling Stones 
+- House Circles  
+- Brooms 
+- Hack
+</details>
+
+### ▶️ Gameplay Video
+[Curling Game – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+
+---
+
+### 📸 Screenshots
+<img src="Pictures/Linkedin/JeuCurlingupdate.png" width="400"/>
+<img src="screenshots/fullmoon_2.png" width="400"/>
