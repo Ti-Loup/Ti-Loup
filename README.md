@@ -72,7 +72,7 @@
 
 >### 🥌 Curling Game
 >>
->>**Genre:** 3D Curling Simulation + Combat system (Unreal Engine, Maya, C++, Blueprints)  
+>>**Genre:** 3D Curling Simulation + Combat system (Unreal Engine, Maya, Mixamo, C++, Blueprints)  
 >>**Status:** Work In Progress (4 months)  
 >>
 >>This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
@@ -158,7 +158,7 @@
 ---
 
 
->### 🥌 Deer Hunt
+>### 🦌 Deer Hunt
 >>
 >>**Genre:** 3D Action adventure, Hunting Game (Unreal Engine, Blueprints)  
 >>**Status:** Finished (3 months)  
@@ -184,3 +184,27 @@
 >><img src="The Deer Hunt.png" width="400"/>
 >><img src="The Deer Hunt_Attack.png" width="400"/>
 
+---
+
+>### 🏃 Endless Runner
+>>
+>>**Genre:** 3D Endless Runner (Unity, Mixamo, C#)  
+>>**Status:** Finished (4 months)  
+>>
+>>This was one of my first projects that I made into Unity, focusing on procedural level generation and character state management. The project has a smooth graphic design and a smooth player feedback loops.
+>>
+>><details>
+>><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
+>>
+>>- ⚡ **Procedural Generation**: Developed a modular system that dynamically spawns 3 possibles map segments that I created as the player advances, making it an "infinite" gameplay loop.
+>>- ♻️ **Performance Optimization**: Implemented a cleanup logic to destroy past map segments has the player advance and generate not to far ahead to save performance.
+>>- 🏃 **Character & Animation**: Programmed the player movement left/right and integrated **Mixamo** animations for fluid transitions and death.
+>>- 📊 **UI & Game Loop**: Designed a custom death menu and a scoring system that tracks player distance and coins.
+>></details>
+>>
+>>#### ▶️ Gameplay Video
+>>[Endless Runner – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>
+>>#### 📸 Screenshots
+>><img src="InfiniteRunner.png" width="400"/>
+>><img src="InfiniteRunner_Game.png" width="400"/>
