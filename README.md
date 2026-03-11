@@ -36,7 +36,7 @@
 >>**Genre:** 2D Action (SDL_Library, C++, Design-Patterns)  
 >>**Status:** Work In Progress (2 months)  
 >>
->>This is my first project using the **SDL library**, where I'm using C++ to develop every aspect of the game from scratch.I focused >>heavily on using **Design Patterns** to ensure a modular system, optimized performance, and clean game logic.
+>>This is my first project using the **SDL library**, where I'm using C++ to develop every aspect of the game from scratch.I focused heavily on using **Design Patterns** to ensure a modular system, optimized performance, and clean game logic.
 >>
 >>The game is inspired by Chicken Invaders and Space Invaders 1978.
 >>
@@ -44,7 +44,7 @@
 >><summary><strong>🧠 All Mechanics I've Implemented (Click to open)</strong></summary>
 >>
 >>- 🏗️ **Architecture**: Utilized **Singleton**, **State**, **Observer**, **Object Pool** and Command patterns to manage global systems, game states, and memory-efficient entity spawning.
->>- 🦌 **Entity Logic**: Developed a system for player movement and shooting system, meteor physics, meat physics, and deers behavior >> using optimized C++ classes.
+>>- 🦌 **Entity Logic**: Developed a system for player movement and shooting system, meteor physics, meat physics, and deers behavior using optimized C++ classes.
 >>- 🌊 **Wave & Meat System**: Implemented a dynamic wave spawner and a "Meat" currency system to track player progression and rewards. Different Waves inside different Levels with each of them having an narative Introduction.
 >>- 💰 **Economy & Loadout:**: Implemented a functional Shop system allowing players to purchase different weapons and shields to customize their progression.
 >>- 🎨 **Technical Art:** Modeled all 2D sprites and integrated them into the SDL rendering pipeline for a cohesive 2D aesthetic. (Title is AI art)
@@ -102,4 +102,6 @@
 >>#### 📸 Screenshots
 >><img src="JeuCurling update.png" width="400"/>
 >><img src="Locomotion.png" width="400"/>
+
+---
 
