@@ -75,7 +75,7 @@
 >>**Genre:** 3D Curling Simulation + Combat system (Unreal Engine, Maya, C++, Blueprints)  
 >>**Status:** Work In Progress (4 months)  
 >>
->>This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a >>stone realistically. The game is a unique blend of curling and combat. All assets—including the stones, brooms, hacks, and houses—>>were modeled in Maya 2025 by myself.
+>>This is my first Unreal Engine project, where I'm using C++ to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets—including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
 >>
 >><details>
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
