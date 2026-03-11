@@ -177,9 +177,6 @@
 >>- 🖥️ **Game Menu and UI**: Menu and options available
 >></details>
 >>
->><details>
->>
->>
 >>#### ▶️ Gameplay Video
 >>[Deer Hunt – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
 >>
