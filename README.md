@@ -97,7 +97,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>[Curling Game – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>[Curling Game – Gameplay](https://youtu.be/OiZBkVpFHXU)
 >>
 >>#### 📸 Screenshots
 >><img src="JeuCurling update.png" width="400"/>
@@ -125,7 +125,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>[Camera RTS/Total War – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>[Camera RTS/Total War – Gameplay](https://youtu.be/ZNUgTf6YLpA)
 >>
 >>#### 📸 Screenshots
 >><img src="RTS_Camera.png" width="400"/>
@@ -178,7 +178,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>[Deer Hunt – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>[Deer Hunt – Gameplay](https://youtu.be/gTsUlmAq7yY)
 >>
 >>#### 📸 Screenshots
 >><img src="The Deer Hunt.png" width="400"/>
