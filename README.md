@@ -3,7 +3,7 @@
 📍 Montréal/Canada 
 
 📩 LinkedIn: https://www.linkedin.com/in/louis-gauvin/  
-📩 email: lpgauvin36@gmail.com
+📩 Email: lpgauvin36@gmail.com
 
 ## 🛠️ Languages & Tools
 
