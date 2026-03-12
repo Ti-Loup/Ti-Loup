@@ -44,10 +44,10 @@
 >><summary><strong>🧠 All Mechanics I've Implemented (Click to open)</strong></summary>
 >>
 >>- 🏗️ **Architecture**: Utilized **Singleton**, **State**, **Observer**, **Object Pool** and Command patterns to manage global systems, game states, and memory-efficient entity spawning.
->>- 🦌 **Entity Logic**: Developed a system for player movement and shooting system, meteor physics, meat physics, and deers behavior using optimized C++ classes.
->>- 🌊 **Wave & Meat System**: Implemented a dynamic wave spawner and a "Meat" currency system to track player progression and rewards. Different Waves inside different Levels with each of them having an narative Introduction.
->>- 💰 **Economy & Loadout:**: Implemented a functional Shop system allowing players to purchase different weapons and shields to customize their progression.
->>- 🎨 **Technical Art:** Modeled all 2D sprites and integrated them into the SDL rendering pipeline for a cohesive 2D aesthetic. (Title is AI art)
+>>- 🦌 **Entity Logic**: Developed a system for player movement and shooting system, meteor physics, meat physics, and deer behavior using optimized C++ classes.
+>>- 🌊 **Wave & Meat System**: Implemented a dynamic wave spawner and a Meat currency system to track player progression and rewards. Different Waves inside different Levels with each of them having a narrative Introduction.
+>>- 💰 **Economy & Loadout**: Implemented a functional Shop system allowing players to purchase different weapons and shields to customize their progression.
+>>- 🎨 **Technical Art**: Modeled all 2D sprites and integrated them into the SDL rendering pipeline for a cohesive 2D aesthetic. (Title is AI art)
 >></details>
 >>
 >><details>
@@ -81,7 +81,7 @@
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
 >>
 >>- 👾 **Character & Gameplay Systems**: Designed and programmed character movement and camera, input handling, interactions, and emotes using a C++ and Blueprint hybrid approach.
->>- 🥌 **Game Logic & Rules**: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and >>reliability. 
+>>- 🥌 **Game Logic & Rules**: Implemented core gameplay rules and curling win conditions strictly in C++ for performance and reliability. 
 >>- 🥌 **Physics & Mechanics (C++)**: Developed custom physics for stone curling functions, launch power (impulse), and dynamic friction calculations. 
 >>- 🧠 **Software Architecture**: Applied Object-Oriented Programming (OOP) principles, specifically Inheritance, to manage distinct behaviors for Red and Blue stones. 
 >>- 💡 **Environment & Lighting**: Created a dynamic Day/Night cycle and lighting system using Blueprints.
@@ -110,7 +110,7 @@
 >>**Genre:** 3D Camera Simulated of Total War Games (Unreal Engine, Blueprints)  
 >>**Status:** Finished (2 months)  
 >>
->>This was my second Unreal Engine project, where I'm using Blueprints to develop and create a camera and the feel of a Total War game. I also simulate the click when the mouse is close to the character. This prototype has been a good base to learn more about the camera movements possibilities and the click on character mechanic.
+>>This was my second Unreal Engine project, where I'm using Blueprints to develop and create a camera and the feel of a Total War game. I also simulate the click when the mouse is close to the character. This prototype has been a good base to learn more about the camera movement possibilities and the click on character mechanic.
 >>
 >>This prototype is inspired by **Total War : Rome 2**
 >>
@@ -138,9 +138,9 @@
 >>**Genre:** Creation of assets (Unreal Engine, Maya, Adobe Painter)  
 >>**Status:** Finished (4 months)  
 >>
->>This project focuses on the high-quality creation of environment assets inspired by the Office of **Red Dead Redemption**. The goal was to create and implement the assets inside Unrea Engine , from modelisation to engine optimization, ensuring assets are both visually stunning and performance-friendly.
+>>This project focuses on the high-quality creation of environment assets inspired by the Office of **Red Dead Redemption**. The goal was to create and implement the assets inside Unreal Engine , from modeling to engine optimization, ensuring assets are both visually stunning and performance-friendly.
 >>
->>🌵 My insperation was Red Dead Redemption 2
+>>🌵 My inspiration was Red Dead Redemption 2
 >>
 >><details>
 >><summary><strong>🎨 3D Models I've Made (Click to open)</strong></summary>
@@ -163,8 +163,8 @@
 >>**Genre:** 3D Action adventure, Hunting Game (Unreal Engine, Blueprints)  
 >>**Status:** Finished (3 months)  
 >>
->>This was my first Unreal Engine project, where I'm using Blueprints to develop a Day/Night cycle, deers and wolfs with behaviour, and pick up/drop mechanic.
->>It was interesting to see the different possiblitity I could do with a different engine from Unity.
+>>This was my first Unreal Engine project, where I'm using Blueprints to develop a Day/Night cycle, deer and wolves with behaviour, and pick up/drop mechanic.
+>>It was interesting to see the different possibilities I could do with a different engine from Unity.
 >>
 >><details>
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
@@ -196,8 +196,8 @@
 >><details>
 >><summary><strong>🧠 All Functions I've Implemented (Click to open)</strong></summary>
 >>
->>- ⚡ **Procedural Generation**: Developed a modular system that dynamically spawns 3 possibles map segments that I created as the player advances, making it an "infinite" gameplay loop.
->>- ♻️ **Performance Optimization**: Implemented a cleanup logic to destroy past map segments has the player advance and generate not to far ahead to save performance.
+>>- ⚡ **Procedural Generation**: Developed a modular system that dynamically spawns 3 possible map segments that I created as the player advances, making it an "infinite" gameplay loop.
+>>- ♻️ **Performance Optimization**: Implemented a cleanup logic to destroy past map segments has the player advance and generate not too far ahead to save performance.
 >>- 🏃 **Character & Animation**: Programmed the player movement left/right and integrated **Mixamo** animations for fluid transitions and death.
 >>- 📊 **UI & Game Loop**: Designed a custom death menu and a scoring system that tracks player distance and coins.
 >></details>
