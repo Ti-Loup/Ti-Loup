@@ -2,7 +2,8 @@
 🎮 Game Programmer 
 📍 Montréal/Canada 
 
-📩 LinkedIn: https://www.linkedin.com/in/louis-gauvin/
+📩 LinkedIn: https://www.linkedin.com/in/louis-gauvin/  
+📩 email: lpgauvin36@gmail.com
 
 ## 🛠️ Languages & Tools
 
