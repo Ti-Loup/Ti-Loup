@@ -62,7 +62,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>[Deer Invaders – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>Work In Progress
 >>
 >>#### 📸 Screenshots
 >><img src="DeerI_Menu_Mars.png" width="400"/>
@@ -203,7 +203,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>[Endless Runner – Gameplay](https://www.youtube.com/TON_LIEN_ICI)
+>>[Endless Runner – Gameplay](https://youtu.be/RxkOhHSXPvk)
 >>
 >>#### 📸 Screenshots
 >><img src="InfiniteRunner.png" width="400"/>
