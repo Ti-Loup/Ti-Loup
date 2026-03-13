@@ -63,7 +63,7 @@
 >></details>
 >>
 >>#### ▶️ Gameplay Video
->>Work In Progress
+>>[🦌 Deer Invaders – Gameplay](https://youtu.be/Lp-bO71_aEc)
 >>
 >>#### 📸 Screenshots
 >><img src="DeerI_Menu_Mars.png" width="400"/>
