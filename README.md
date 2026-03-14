@@ -67,7 +67,7 @@
 >>
 >>#### 📸 Screenshots
 >><img src="DeerI_Menu_Mars.png" width="400"/>
->><img src="DeerI_Game_Mars.png" width="400"/>  
+>><img src="DeerI_Game_Mars.png" width="400"/><br>
 >>- Update 1  
 >><img src="DeerI_Game_Update1.png" width="400"/>
 
