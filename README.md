@@ -36,6 +36,7 @@
 >>**Genre:** Shoot Em Up (SDL_Library, C++, Design-Patterns)  
 >>**Status:** Work In Progress (2 months)  
 >>  <hr>
+>>
 >>This game is developed in C++ using the  **SDL 3.4 library**, where I'm coding every aspect of the game from scratch.I focused heavily on using **Design Patterns** to ensure a modular system, optimized performance, and clean game logic.
 >>  
 >>The game is inspired by Chicken Invaders and Space Invaders 1978.
@@ -80,6 +81,7 @@
 >>**Genre:** Sport (Unreal Engine, Maya, Mixamo, C++, Blueprints)  
 >>**Status:** Work In Progress (4 months)  
 >><hr>
+>>
 >>This project focuses on developing custom gameplay mechanics in **C++** within **Unreal Engine** to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
 >><hr>
 >><details>
@@ -116,10 +118,12 @@
 >>**Genre:** 3D Camera Simulated of Total War Games (Unreal Engine, Blueprints)  
 >>**Status:** Finished (2 months)  
 >><hr>
+>>
 >>This prototype was made in Unreal Engine with Blueprints to develop and create a camera and the feel of a Total War game. I also simulate the click when the mouse is close to the character. This prototype has been a good base to learn more about the camera movement possibilities and the click on character mechanic.
 >>
 >>This prototype is inspired by **Total War : Rome 2**
 >><hr>
+>>
 >><details>
 >><summary><strong> All Functions I've Implemented (Click to open)</strong></summary>
 >>
@@ -144,6 +148,7 @@
 >>
 >>**Status:** Finished (4 months)  
 >><hr>
+>>
 >>This project focuses on the high-quality creation of environment assets inspired by the Office of **Red Dead Redemption**. The goal was to create and implement the assets inside Unreal Engine , from modeling to engine optimization, ensuring assets are both visually stunning and performance-friendly.
 >>
 >> My inspiration was Red Dead Redemption 2
@@ -170,6 +175,7 @@
 >>**Genre:** Hunting (Unreal Engine, Blueprints)  
 >>**Status:** Finished (3 months)  
 >><hr>
+>>
 >>This prototype was made in Unreal Engine 5 with Blueprints to develop a Day/Night cycle, deer and wolves with behaviour, and pick up/drop mechanic.
 >>It was interesting to see the different possibilities I could do with a different engine from Unity.
 >><hr>
