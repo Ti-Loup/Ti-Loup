@@ -8,13 +8,13 @@
 ## 🛠️ Languages & Tools
 
 **Programming Languages:**  
-![C++](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-red?logo=openjdk)
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-003366?logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-004080?logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-0059b3?logo=openjdk&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-0073e6?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-3399ff?logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-80bfff?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-cce6ff?logo=mysql&logoColor=black)
 
 **Game Engines:**  
 ![Unity](https://img.shields.io/badge/Unity-black?logo=unity)
