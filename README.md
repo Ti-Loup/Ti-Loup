@@ -101,6 +101,7 @@
 >>- Hack
 >></details>
 >> <hr>
+>>
 >> #### ▶️ Gameplay Video
 >>[Curling Game – Gameplay](https://youtu.be/OiZBkVpFHXU)
 >>
@@ -129,6 +130,7 @@
 >>-  **Input Handling:** Created a responsive control scheme tailored for tactical strategy games, ensuring fluid navigation across the battlefield. 
 >></details>
 >><hr>
+>>
 >> #### ▶️ Gameplay Video
 >>[Camera RTS/Total War – Gameplay](https://youtu.be/ZNUgTf6YLpA)
 >>
@@ -154,6 +156,7 @@
 >>- Sheriff Office
 >></details>
 >><hr>
+>>
 >> #### 📸 Screenshots
 >><img src="Sheriff.png" width="100%"/>
 >><img src="Sheriff_Finish.png" width="100%"/>
@@ -181,6 +184,7 @@
 >>-  **Game Menu and UI**: Menu and options available
 >></details>
 >><hr>
+>>
 >> #### ▶️ Gameplay Video
 >>[Deer Hunt – Gameplay](https://youtu.be/gTsUlmAq7yY)
 >>
@@ -206,6 +210,7 @@
 >>-  **UI & Game Loop**: Designed a custom death menu and a scoring system that tracks player distance and coins.
 >></details>
 >><hr>
+>>
 >> #### ▶️ Gameplay Video
 >>[Endless Runner – Gameplay](https://youtu.be/RxkOhHSXPvk)
 >>
