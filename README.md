@@ -1,4 +1,4 @@
-## Louis-Philippe Gauvin (a.k.a Ti-Loup)
+## Louis-Philippe Gauvin (Ti-Loup)
 🎮 Game Programmer 
 📍 Montréal/Canada 
 
