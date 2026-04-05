@@ -43,7 +43,7 @@
 >><details>
 >><summary><strong> All Mechanics I've Implemented (Click to open)</strong></summary>
 >>
->>-  **Architecture**: Utilized **Singleton**, **State**, **Observer**, **Object Pool** and Command patterns to manage global systems, game states, and memory-efficient entity spawning.
+>>-  **Architecture**: Utilized **Singleton**, **State**, **Observer**, **Object Pool** and **Command** patterns to manage global systems, game states, and memory-efficient entity spawning. Added **Steamworks SDK** into the build
 >>-  **Entity Logic**: Developed a system for player movement and shooting system, meteor physics, meat physics, and deer behavior using optimized C++ classes.
 >>-  **Wave & Meat System**: Implemented a dynamic wave spawner and a Meat currency system to track player progression and rewards. Different Waves inside different Levels with each of them having a narrative Introduction.
 >>-  **Economy & Loadout**: Implemented a functional Shop system allowing players to purchase different weapons and shields to customize their progression.
