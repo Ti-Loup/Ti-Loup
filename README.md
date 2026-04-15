@@ -34,7 +34,7 @@
 >### 🦌 Deer Invaders
 >>
 >>**Genre:** Shoot Em Up (SDL_Library, C++, Design-Patterns)  
->>**Status:** Work In Progress (2 months)  
+>>**Status:** Finished (3 months)  
 >>
 >>This game is developed in C++ using the  **SDL 3.4 library**, where I'm coding every aspect of the game from scratch.I focused heavily on using **Design Patterns** to ensure a modular system, optimized performance, and clean game logic.
 >>  
