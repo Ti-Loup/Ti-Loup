@@ -51,7 +51,7 @@
 >></details>
 >>
 >><details>
->><summary><strong> 2D Models To DO (Click to open)</strong></summary>
+>><summary><strong> 2D Models (Click to open)</strong></summary>
 >>
 >>- Deer Shape 
 >>- Strawberries
@@ -59,6 +59,8 @@
 >>- Meat
 >>- Bullets/Shields
 >>- Player Ship
+>>- Missiles
+>>- Heal Icon
 >></details>
 >> <hr>
 >>
