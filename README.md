@@ -66,12 +66,10 @@
 >>[🦌 Deer Invaders – Gameplay](https://youtu.be/kmVUhDSkX6Q)
 >>
 >>#### 📸 Screenshots
->><img src="DeerI_Menu_Mars.png" width="100%"/>
->><img src="DeerI_Game_Mars.png" width="100%"/><br>
->>- Update 1 <br>  
->><img src="DeerI_Game_Update1.png" width="100%"/><br>
->>- Update 2 <br>
->><img src="Update2.png" width="100%"/><br>
+>><img src="DeerInvadersFinished1.png" width="100%"/>
+>><img src="DeerInvadersFinished2.png" width="100%"/><br>
+>><img src="DeerInvadersFinished3.png" width="100%"/><br>
+<br>
 
 ---
 
