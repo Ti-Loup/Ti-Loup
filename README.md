@@ -31,6 +31,37 @@
 
 ## 📂 Projects
 
+>### ⚔️ Total 🌸 Battle 🏯 2D 𓄿ᛉᛟᛣ
+>>
+>>**Genre:** Turn Based Strategy (SDL_Library, C++, Design-Patterns)  
+>>**Status:** Work In Progress  
+>>
+>>This game is developed in C++ using the  **SDL 3.4 library**, where I'm coding every aspect of the game from scratch.I focused heavily on using **Design Patterns** to ensure a modular system, optimized performance, and clean game logic.
+>>  
+>>The game is inspired by Total War genre and For Honor 
+>>  <hr>
+>><details>
+>><summary><strong> All Mechanics I've Implemented (Click to open)</strong></summary>
+>>- Tile Map / UI 
+>>- Camera Movement  
+>></details>
+>>
+>><details>
+>><summary><strong> 2D Models (Click to open)</strong></summary>
+>>
+>>- Tile Map
+>>- UI Elements
+>></details>
+>> <hr>
+>>
+>> #### ▶️ Gameplay Video
+>>
+>>#### 📸 Screenshots
+>><img src="DeerInvadersFinished1.png" width="100%"/>
+<br>
+
+---
+
 >### 🦌 Deer Invaders
 >>
 >>**Genre:** Shoot Em Up (SDL_Library, C++, Design-Patterns)  
@@ -78,7 +109,7 @@
 >### 🥌 Curling Game
 >>
 >>**Genre:** Sport (Unreal Engine, Maya, Mixamo, C++, Blueprints)  
->>**Status:** Work In Progress (4 months)  
+>>**Status:** Finished (2 months)  
 >>
 >>This project focuses on developing custom gameplay mechanics in **C++** within **Unreal Engine** to develop custom gameplay mechanics. I also simulate the movement of a stone realistically. The game is a unique blend of curling and combat. All assets including the stones, brooms, hacks, and houses were modeled in Maya 2025 by myself.
 >><hr>
