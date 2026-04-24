@@ -58,6 +58,7 @@
 >>
 >>#### 📸 Screenshots
 >><img src="TotalBattle2DTileMap.png" width="100%"/>
+>><img src="TotalBattle2DTotalBattle2DUI.png" width="100%"/>
 <br>
 
 ---
