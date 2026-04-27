@@ -168,7 +168,6 @@
 >>[Camera RTS/Total War – Gameplay](https://youtu.be/ZNUgTf6YLpA)
 >>
 >> #### 📸 Screenshots
->><img src="RTS_Camera.png" width="100%"/>
 >><img src="RTS_Click.png" width="100%"/>
 
 ---
@@ -191,7 +190,6 @@
 >><hr>
 >>
 >> #### 📸 Screenshots
->><img src="Sheriff.png" width="100%"/>
 >><img src="Sheriff_Finish.png" width="100%"/>
 >><img src="Sheriff_Finish2.png" width="100%"/>
 
@@ -222,7 +220,6 @@
 >>[Deer Hunt – Gameplay](https://youtu.be/gTsUlmAq7yY)
 >>
 >> #### 📸 Screenshots
->><img src="The Deer Hunt.png" width="100%"/>
 >><img src="The Deer Hunt_Attack.png" width="100%"/>
 
 ---
