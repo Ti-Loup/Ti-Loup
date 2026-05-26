@@ -23,6 +23,8 @@
 **3D Modeling Program:**  
 ![Maya](https://img.shields.io/badge/Maya-37A5CC?logo=autodesk)
 ![Substance Painter](https://img.shields.io/badge/Substance_Painter-FF6A00?logo=adobe-substance-painter&logoColor=white)
+![ArmorPaint]
+(https://img.shields.io/badge/ArmorPaint-20232A?style=for-the badge&logo=armorpaint&logoColor=white)
 
 **Version Control Systems:**  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
