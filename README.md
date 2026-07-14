@@ -32,7 +32,7 @@
 ## 📂 Projects
 
 >### ⚔️ Total 🌸 Battle 🏯 2D 𓄿ᛉᛟᛣ
->>
+>> https://github.com/Ti-Loup/Total-Battle-2D
 >>**Genre:** Turn Based Strategy (SDL_Library, C++, Design-Patterns)  
 >>**Status:** Work In Progress  
 >>
