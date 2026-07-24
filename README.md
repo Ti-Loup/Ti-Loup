@@ -42,8 +42,7 @@
 >>  <hr>
 >><details>
 >><summary><strong> All Mechanics I've Implemented (Click to open)</strong></summary>
->>- Tile Map / UI 
->>- Camera Movement  
+>>- See RoadMap ~!
 >></details>
 >>
 >><details>
