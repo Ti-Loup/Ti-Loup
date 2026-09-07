@@ -54,7 +54,7 @@
 >> <hr>
 >>
 >> #### ▶️ Gameplay Video
->>
+>>[Total Battle 2D – Gameplay](https://www.youtube.com/watch?v=Ey41JzbMrpA)
 >>#### 📸 Screenshots
 >><img src="TotalBattle2DTileMap.png" width="100%"/>
 >><img src="Screenshot 2026-08-14 011155.png" width="100%"/>
